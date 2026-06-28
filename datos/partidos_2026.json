@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260628T175500Z",
+  "actualizado_en": "20260628T184236Z",
   "partidos": [
     {
       "numero": 73,
@@ -18,7 +18,8 @@
       "ciudad": "Inglewood",
       "pais": "Estados Unidos",
       "siguiente_partido": 90,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760486"
     },
     {
       "numero": 74,
@@ -33,7 +34,8 @@
       "ciudad": "Foxborough",
       "pais": "Estados Unidos",
       "siguiente_partido": 89,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760489"
     },
     {
       "numero": 75,
@@ -48,7 +50,8 @@
       "ciudad": "Guadalupe",
       "pais": "México",
       "siguiente_partido": 90,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760488"
     },
     {
       "numero": 76,
@@ -63,7 +66,8 @@
       "ciudad": "Houston",
       "pais": "Estados Unidos",
       "siguiente_partido": 91,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760487"
     },
     {
       "numero": 77,
@@ -78,7 +82,8 @@
       "ciudad": "East Rutherford",
       "pais": "Estados Unidos",
       "siguiente_partido": 89,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760492"
     },
     {
       "numero": 78,
@@ -93,7 +98,8 @@
       "ciudad": "Arlington",
       "pais": "Estados Unidos",
       "siguiente_partido": 91,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760490"
     },
     {
       "numero": 79,
@@ -108,7 +114,8 @@
       "ciudad": "Ciudad de México",
       "pais": "México",
       "siguiente_partido": 92,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760491"
     },
     {
       "numero": 80,
@@ -116,14 +123,15 @@
       "fecha": "2026-07-01",
       "hora": "10:00",
       "equipo_local": "Inglaterra",
-      "bandera_local": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "bandera_local": "🏴",
       "equipo_visitante": "RD Congo",
       "bandera_visitante": "🇨🇩",
       "estadio": "Estadio Mercedes-Benz",
       "ciudad": "Atlanta",
       "pais": "Estados Unidos",
       "siguiente_partido": 92,
-      "revision": 0
+      "revision": 1,
+      "espn_event_id": "760495"
     },
     {
       "numero": 81,
@@ -138,7 +146,8 @@
       "ciudad": "Santa Clara",
       "pais": "Estados Unidos",
       "siguiente_partido": 94,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760494"
     },
     {
       "numero": 82,
@@ -153,7 +162,8 @@
       "ciudad": "Seattle",
       "pais": "Estados Unidos",
       "siguiente_partido": 94,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760493"
     },
     {
       "numero": 83,
@@ -168,7 +178,8 @@
       "ciudad": "Toronto",
       "pais": "Canadá",
       "siguiente_partido": 93,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760496"
     },
     {
       "numero": 84,
@@ -183,7 +194,8 @@
       "ciudad": "Inglewood",
       "pais": "Estados Unidos",
       "siguiente_partido": 93,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760497"
     },
     {
       "numero": 85,
@@ -198,7 +210,8 @@
       "ciudad": "Vancouver",
       "pais": "Canadá",
       "siguiente_partido": 96,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760498"
     },
     {
       "numero": 86,
@@ -213,7 +226,8 @@
       "ciudad": "Miami Gardens",
       "pais": "Estados Unidos",
       "siguiente_partido": 95,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760500"
     },
     {
       "numero": 87,
@@ -228,7 +242,8 @@
       "ciudad": "Kansas City",
       "pais": "Estados Unidos",
       "siguiente_partido": 96,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760501"
     },
     {
       "numero": 88,
@@ -243,7 +258,8 @@
       "ciudad": "Arlington",
       "pais": "Estados Unidos",
       "siguiente_partido": 95,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760499"
     },
     {
       "numero": 89,
@@ -258,7 +274,8 @@
       "ciudad": "Filadelfia",
       "pais": "Estados Unidos",
       "siguiente_partido": 97,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760503"
     },
     {
       "numero": 90,
@@ -273,7 +290,8 @@
       "ciudad": "Houston",
       "pais": "Estados Unidos",
       "siguiente_partido": 97,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760502"
     },
     {
       "numero": 91,
@@ -288,7 +306,8 @@
       "ciudad": "East Rutherford",
       "pais": "Estados Unidos",
       "siguiente_partido": 99,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760504"
     },
     {
       "numero": 92,
@@ -303,7 +322,8 @@
       "ciudad": "Ciudad de México",
       "pais": "México",
       "siguiente_partido": 99,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760505"
     },
     {
       "numero": 93,
@@ -318,7 +338,8 @@
       "ciudad": "Arlington",
       "pais": "Estados Unidos",
       "siguiente_partido": 98,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760506"
     },
     {
       "numero": 94,
@@ -333,7 +354,8 @@
       "ciudad": "Seattle",
       "pais": "Estados Unidos",
       "siguiente_partido": 98,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760507"
     },
     {
       "numero": 95,
@@ -348,7 +370,8 @@
       "ciudad": "Atlanta",
       "pais": "Estados Unidos",
       "siguiente_partido": 100,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760509"
     },
     {
       "numero": 96,
@@ -363,7 +386,8 @@
       "ciudad": "Vancouver",
       "pais": "Canadá",
       "siguiente_partido": 100,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760508"
     },
     {
       "numero": 97,
@@ -378,7 +402,8 @@
       "ciudad": "Foxborough",
       "pais": "Estados Unidos",
       "siguiente_partido": 101,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760510"
     },
     {
       "numero": 98,
@@ -393,7 +418,8 @@
       "ciudad": "Inglewood",
       "pais": "Estados Unidos",
       "siguiente_partido": 101,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760511"
     },
     {
       "numero": 99,
@@ -408,7 +434,8 @@
       "ciudad": "Miami Gardens",
       "pais": "Estados Unidos",
       "siguiente_partido": 102,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760512"
     },
     {
       "numero": 100,
@@ -423,7 +450,8 @@
       "ciudad": "Kansas City",
       "pais": "Estados Unidos",
       "siguiente_partido": 102,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760513"
     },
     {
       "numero": 101,
@@ -439,7 +467,8 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 104,
       "perdedor_siguiente_partido": 103,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760514"
     },
     {
       "numero": 102,
@@ -455,7 +484,8 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 104,
       "perdedor_siguiente_partido": 103,
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760515"
     },
     {
       "numero": 103,
@@ -469,7 +499,8 @@
       "estadio": "Estadio Hard Rock",
       "ciudad": "Miami Gardens",
       "pais": "Estados Unidos",
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760516"
     },
     {
       "numero": 104,
@@ -483,7 +514,8 @@
       "estadio": "Estadio MetLife",
       "ciudad": "East Rutherford",
       "pais": "Estados Unidos",
-      "revision": 0
+      "revision": 0,
+      "espn_event_id": "760517"
     }
   ]
 }
