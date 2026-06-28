@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260628T184236Z",
+  "actualizado_en": "20260628T235033Z",
   "partidos": [
     {
       "numero": 73,
@@ -19,7 +19,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 90,
       "revision": 0,
-      "espn_event_id": "760486"
+      "espn_event_id": "760486",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 0,
+        "marcador_visitante": 1,
+        "ganador": "Canadá"
+      }
     },
     {
       "numero": 74,
@@ -282,15 +288,15 @@
       "fase": "Octavos de final",
       "fecha": "2026-07-04",
       "hora": "11:00",
-      "equipo_local": "Ganador del partido 73",
-      "bandera_local": "🏳️",
+      "equipo_local": "Canadá",
+      "bandera_local": "🇨🇦",
       "equipo_visitante": "Ganador del partido 75",
       "bandera_visitante": "🏳️",
       "estadio": "Estadio NRG",
       "ciudad": "Houston",
       "pais": "Estados Unidos",
       "siguiente_partido": 97,
-      "revision": 0,
+      "revision": 2,
       "espn_event_id": "760502"
     },
     {
