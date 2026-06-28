@@ -1,0 +1,490 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Carlos Mundial 2026//Calendario//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏆 Mundial 2026
+X-WR-TIMEZONE:America/Mexico_City
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:worldcup2026-53452545@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260628T130000
+DTEND;TZID=America/Mexico_City:20260628T150000
+SUMMARY:🇿🇦 South Africa vs Canada 🇨🇦
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452545\n➡️
+  Ganador avanza al partido 53452511\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇿🇦 South Africa vs Canada 🇨🇦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452557@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260629T110000
+DTEND;TZID=America/Mexico_City:20260629T130000
+SUMMARY:🇧🇷 Brazil vs Japan 🇯🇵
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452557\n➡️
+  Ganador avanza al partido 53452517\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇧🇷 Brazil vs Japan 🇯🇵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452541@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260629T143000
+DTEND;TZID=America/Mexico_City:20260629T163000
+SUMMARY:🇩🇪 Germany vs Paraguay 🇵🇾
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452541\n➡️
+  Ganador avanza al partido 53452509\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇩🇪 Germany vs Paraguay 🇵🇾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452547@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260629T190000
+DTEND;TZID=America/Mexico_City:20260629T210000
+SUMMARY:🇳🇱 Netherlands vs Morocco 🇲🇦
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452547\n➡️
+  Ganador avanza al partido 53452511\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇳🇱 Netherlands vs Morocco 🇲🇦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452561@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260630T110000
+DTEND;TZID=America/Mexico_City:20260630T130000
+SUMMARY:🇨🇮 Ivory Coast vs Norway 🇳🇴
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452561\n➡️
+  Ganador avanza al partido 53452517\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇨🇮 Ivory Coast vs Norway 🇳🇴
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452543@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260630T150000
+DTEND;TZID=America/Mexico_City:20260630T170000
+SUMMARY:🇫🇷 France vs Sweden 🇸🇪
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452543\n➡️
+  Ganador avanza al partido 53452509\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇫🇷 France vs Sweden 🇸🇪
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452563@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260630T190000
+DTEND;TZID=America/Mexico_City:20260630T210000
+SUMMARY:🇲🇽 Mexico vs Ecuador 🇪🇨
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452563\n➡️
+  Ganador avanza al partido 53452519\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇲🇽 Mexico vs Ecuador 🇪🇨
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452565@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260701T100000
+DTEND;TZID=America/Mexico_City:20260701T120000
+SUMMARY:🇬🇧 England vs DR Congo 🇨🇩
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452565\n➡️
+  Ganador avanza al partido 53452519\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇬🇧 England vs DR Congo 🇨🇩
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452555@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260701T140000
+DTEND;TZID=America/Mexico_City:20260701T160000
+SUMMARY:🇧🇪 Belgium vs Senegal 🇸🇳
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452555\n➡️
+  Ganador avanza al partido 53452515\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇧🇪 Belgium vs Senegal 🇸🇳
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452553@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260701T180000
+DTEND;TZID=America/Mexico_City:20260701T200000
+SUMMARY:🇺🇸 United States vs Bosnia and Herzegovina 🇧🇦
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452553\n➡️
+  Ganador avanza al partido 53452515\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇺🇸 United States vs Bosnia and Herzegovina 🇧🇦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452551@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260702T130000
+DTEND;TZID=America/Mexico_City:20260702T150000
+SUMMARY:🇪🇸 Spain vs Austria 🇦🇹
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452551\n➡️
+  Ganador avanza al partido 53452513\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇪🇸 Spain vs Austria 🇦🇹
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452549@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260702T170000
+DTEND;TZID=America/Mexico_City:20260702T190000
+SUMMARY:🇵🇹 Portugal vs Croatia 🇭🇷
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452549\n➡️
+  Ganador avanza al partido 53452513\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇵🇹 Portugal vs Croatia 🇭🇷
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452505@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260702T210000
+DTEND;TZID=America/Mexico_City:20260702T230000
+SUMMARY:🇨🇭 Switzerland vs Algeria 🇩🇿
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452505\n➡️
+  Ganador avanza al partido 53452523\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇨🇭 Switzerland vs Algeria 🇩🇿
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452503@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260703T120000
+DTEND;TZID=America/Mexico_City:20260703T140000
+SUMMARY:🇦🇺 Australia vs Egypt 🇪🇬
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452503\n➡️
+  Ganador avanza al partido 53452521\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇦🇺 Australia vs Egypt 🇪🇬
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452569@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260703T160000
+DTEND;TZID=America/Mexico_City:20260703T180000
+SUMMARY:🇦🇷 Argentina vs Cape Verde 🇨🇻
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452569\n➡️
+  Ganador avanza al partido 53452521\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇦🇷 Argentina vs Cape Verde 🇨🇻
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452507@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260703T193000
+DTEND;TZID=America/Mexico_City:20260703T213000
+SUMMARY:🇨🇴 Colombia vs Ghana 🇬🇭
+DESCRIPTION:🏆 Dieciseisavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452507\n➡️
+  Ganador avanza al partido 53452523\n\n📅 Calendario actualizable:\nhttps
+ ://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🇨🇴 Colombia vs Ghana 🇬🇭
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452511@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260704T110000
+DTEND;TZID=America/Mexico_City:20260704T130000
+SUMMARY:Ganador RSA/CAN vs Ganador NED/MAR
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452511\n➡️ Ganad
+ or avanza a cuartos 53452525\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador RSA/CAN vs Ganador NED/MAR
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452509@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260704T150000
+DTEND;TZID=America/Mexico_City:20260704T170000
+SUMMARY:Ganador GER/PAR vs Ganador FRA/SWE
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452509\n➡️ Ganad
+ or avanza a cuartos 53452525\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador GER/PAR vs Ganador FRA/SWE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452517@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260705T140000
+DTEND;TZID=America/Mexico_City:20260705T160000
+SUMMARY:Ganador BRA/JPN vs Ganador CIV/NOR
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452517\n➡️ Ganad
+ or avanza a cuartos 53452529\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador BRA/JPN vs Ganador CIV/NOR
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452519@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260705T180000
+DTEND;TZID=America/Mexico_City:20260705T200000
+SUMMARY:Ganador MEX/ECU vs Ganador ENG/COD
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452519\n➡️ Ganad
+ or avanza a cuartos 53452529\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador MEX/ECU vs Ganador ENG/COD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452513@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260706T130000
+DTEND;TZID=America/Mexico_City:20260706T150000
+SUMMARY:Ganador POR/CRO vs Ganador ESP/AUT
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452513\n➡️ Ganad
+ or avanza a cuartos 53452527\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador POR/CRO vs Ganador ESP/AUT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452515@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260706T180000
+DTEND;TZID=America/Mexico_City:20260706T200000
+SUMMARY:Ganador USA/BIH vs Ganador BEL/SEN
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452515\n➡️ Ganad
+ or avanza a cuartos 53452527\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador USA/BIH vs Ganador BEL/SEN
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452521@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260707T100000
+DTEND;TZID=America/Mexico_City:20260707T120000
+SUMMARY:Ganador ARG/CPV vs Ganador AUS/EGY
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452521\n➡️ Ganad
+ or avanza a cuartos 53452531\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador ARG/CPV vs Ganador AUS/EGY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452523@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260707T140000
+DTEND;TZID=America/Mexico_City:20260707T160000
+SUMMARY:Ganador SUI/DZA vs Ganador COL/GHA
+DESCRIPTION:🏆 Octavos\n\n🕒 Horario CDMX\n🆔 ID partido: 53452523\n➡️ Ganad
+ or avanza a cuartos 53452531\n\n📅 Calendario actualizable:\nhttps://carl
+ oaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ganador SUI/DZA vs Ganador COL/GHA
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452525@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260709T140000
+DTEND;TZID=America/Mexico_City:20260709T160000
+SUMMARY:Cuartos de final 1
+DESCRIPTION:🏆 Cuartos de final\n\n🕒 Horario CDMX\n🆔 ID partido: 53452525\
+ n➡️ Ganador avanza a semifinal 53452533\n\n📅 Calendario actualizable:\nh
+ ttps://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cuartos de final 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452527@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260710T130000
+DTEND;TZID=America/Mexico_City:20260710T150000
+SUMMARY:Cuartos de final 2
+DESCRIPTION:🏆 Cuartos de final\n\n🕒 Horario CDMX\n🆔 ID partido: 53452527\
+ n➡️ Ganador avanza a semifinal 53452533\n\n📅 Calendario actualizable:\nh
+ ttps://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cuartos de final 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452529@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260711T150000
+DTEND;TZID=America/Mexico_City:20260711T170000
+SUMMARY:Cuartos de final 3
+DESCRIPTION:🏆 Cuartos de final\n\n🕒 Horario CDMX\n🆔 ID partido: 53452529\
+ n➡️ Ganador avanza a semifinal 53452535\n\n📅 Calendario actualizable:\nh
+ ttps://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cuartos de final 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452531@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260711T190000
+DTEND;TZID=America/Mexico_City:20260711T210000
+SUMMARY:Cuartos de final 4
+DESCRIPTION:🏆 Cuartos de final\n\n🕒 Horario CDMX\n🆔 ID partido: 53452531\
+ n➡️ Ganador avanza a semifinal 53452535\n\n📅 Calendario actualizable:\nh
+ ttps://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cuartos de final 4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452533@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260714T130000
+DTEND;TZID=America/Mexico_City:20260714T150000
+SUMMARY:Semifinal 1
+DESCRIPTION:🏆 Semifinal\n\n🕒 Horario CDMX\n🆔 ID partido: 53452533\n➡️ Gan
+ ador avanza a la final\; perdedor va por tercer lugar\n\n📅 Calendario ac
+ tualizable:\nhttps://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Semifinal 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452535@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260715T130000
+DTEND;TZID=America/Mexico_City:20260715T150000
+SUMMARY:Semifinal 2
+DESCRIPTION:🏆 Semifinal\n\n🕒 Horario CDMX\n🆔 ID partido: 53452535\n➡️ Gan
+ ador avanza a la final\; perdedor va por tercer lugar\n\n📅 Calendario ac
+ tualizable:\nhttps://carloaphotos.github.io/mundial2026/mundial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Semifinal 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452539@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260718T150000
+DTEND;TZID=America/Mexico_City:20260718T170000
+SUMMARY:Partido por tercer lugar
+DESCRIPTION:🏆 Tercer lugar\n\n🕒 Horario CDMX\n🆔 ID partido: 53452539\n\n📅
+  Calendario actualizable:\nhttps://carloaphotos.github.io/mundial2026/mu
+ ndial.ics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Partido por tercer lugar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup2026-53452537@carloaphotos.github.io
+DTSTAMP:20260628T095108
+DTSTART;TZID=America/Mexico_City:20260719T130000
+DTEND;TZID=America/Mexico_City:20260719T150000
+SUMMARY:🏆 Final Mundial 2026
+DESCRIPTION:🏆 Final\n\n🕒 Horario CDMX\n🆔 ID partido: 53452537\n\n📅 Calend
+ ario actualizable:\nhttps://carloaphotos.github.io/mundial2026/mundial.i
+ cs
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:🏆 Final Mundial 2026
+END:VALARM
+END:VEVENT
+END:VCALENDAR
