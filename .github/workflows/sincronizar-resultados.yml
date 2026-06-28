@@ -1,16 +1,12 @@
 name: Sincronizar resultados del Mundial
 
 on:
+workflow_dispatch:
 schedule:
 - cron: "17,47 * * * *"
-workflow_dispatch:
 
 permissions:
 contents: write
-
-concurrency:
-group: sincronizar-resultados-mundial
-cancel-in-progress: false
 
 jobs:
 actualizar-calendario:
@@ -20,8 +16,6 @@ runs-on: ubuntu-latest
 steps:
   - name: Descargar repositorio
     uses: actions/checkout@v4
-    with:
-      fetch-depth: 0
 
   - name: Preparar Python
     uses: actions/setup-python@v5
@@ -33,16 +27,16 @@ steps:
       API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
     run: python3 actualizar_resultados.py
 
-  - name: Regenerar y validar mundial.ics cuando haya cambios
+  - name: Regenerar calendario y validarlo
     run: |
       if git diff --quiet; then
-        echo "No hay cambios públicos que publicar."
+        echo "No hay cambios por publicar."
         exit 0
       fi
       python3 generar_calendario.py
       python3 validar_calendario.py
 
-  - name: Publicar actualización automática
+  - name: Publicar cambios
     run: |
       if git diff --quiet; then
         echo "No hay cambios que confirmar."
