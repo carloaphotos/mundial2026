@@ -1,0 +1,201 @@
+<!doctype html>
+
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calendario Mundial 2026</title>
+  <meta name="description" content="Suscríbete al calendario del Mundial 2026 y recibe actualizaciones de cruces, horarios y sedes.">
+
+  <style>
+    :root {
+      color-scheme: light;
+      --fondo: #f6f3ee;
+      --tarjeta: #ffffff;
+      --texto: #1d1d1f;
+      --suave: #6b6b70;
+      --verde: #0b6e4f;
+      --verde-oscuro: #07553d;
+      --borde: #e4dfd7;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background: var(--fondo);
+      color: var(--texto);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif;
+    }
+
+    main {
+      width: min(100%, 520px);
+      background: var(--tarjeta);
+      border: 1px solid var(--borde);
+      border-radius: 24px;
+      padding: 32px 24px;
+      text-align: center;
+      box-shadow: 0 14px 45px rgba(35, 30, 25, 0.10);
+    }
+
+    .icono {
+      font-size: 50px;
+      line-height: 1;
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 30px;
+      letter-spacing: -0.8px;
+    }
+
+    .subtitulo {
+      color: var(--suave);
+      line-height: 1.5;
+      margin: 12px auto 28px;
+      max-width: 420px;
+    }
+
+    .boton {
+      width: 100%;
+      display: block;
+      border: 0;
+      border-radius: 14px;
+      padding: 16px 18px;
+      margin: 12px 0;
+      color: #ffffff;
+      background: var(--verde);
+      font: inherit;
+      font-size: 16px;
+      font-weight: 700;
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform 0.15s ease, background 0.15s ease;
+    }
+
+    .boton:hover {
+      background: var(--verde-oscuro);
+      transform: translateY(-1px);
+    }
+
+    .boton-secundario {
+      color: var(--texto);
+      background: #f1eee9;
+    }
+
+    .boton-secundario:hover {
+      background: #e8e3dc;
+    }
+
+    #android {
+      display: none;
+      margin-top: 18px;
+      padding: 18px;
+      background: #f7f5f2;
+      border-radius: 14px;
+      text-align: left;
+      color: var(--texto);
+      line-height: 1.5;
+    }
+
+    #android p {
+      margin: 0 0 12px;
+    }
+
+    code {
+      display: block;
+      overflow-wrap: anywhere;
+      padding: 10px;
+      border-radius: 9px;
+      background: #ebe7e1;
+      font-size: 12px;
+      color: #3f3c39;
+    }
+
+    .nota {
+      margin: 26px 0 0;
+      color: var(--suave);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .enlace {
+      color: var(--verde);
+      font-weight: 700;
+      text-decoration: none;
+    }
+  </style>
+
+</head>
+
+<body>
+  <main>
+    <div class="icono">🏆</div>
+
+```
+<h1>Calendario Mundial 2026</h1>
+
+<p class="subtitulo">
+  Partidos, horarios en CDMX, sedes y cruces actualizados.
+  Suscríbete para recibir los cambios automáticamente.
+</p>
+
+<a class="boton"
+   href="webcal://carloaphotos.github.io/mundial2026/mundial.ics">
+  🍎 Suscribirme en iPhone o Mac
+</a>
+
+<button class="boton boton-secundario" type="button" onclick="mostrarAndroid()">
+  🤖 Usar en Android / Google Calendar
+</button>
+
+<section id="android">
+  <p><strong>1.</strong> Copia este enlace:</p>
+
+  <code id="enlaceCalendario">https://carloaphotos.github.io/mundial2026/mundial.ics</code>
+
+  <button class="boton" type="button" onclick="copiarEnlace()">
+    Copiar enlace del calendario
+  </button>
+
+  <p><strong>2.</strong> En una computadora entra a Google Calendar → Otros calendarios → + → Desde URL y pega el enlace.</p>
+  <p>Después aparecerá automáticamente en la app de Google Calendar de Android con la misma cuenta.</p>
+</section>
+
+<p class="nota">
+  ¿Usas Outlook u otra app?<br>
+  Copia este enlace y agrégalo como calendario de suscripción:<br><br>
+  <a class="enlace" href="https://carloaphotos.github.io/mundial2026/mundial.ics">
+    https://carloaphotos.github.io/mundial2026/mundial.ics
+  </a>
+</p>
+```
+
+  </main>
+
+  <script>
+    function mostrarAndroid() {
+      const panel = document.getElementById("android");
+      panel.style.display = panel.style.display === "block" ? "none" : "block";
+    }
+
+    function copiarEnlace() {
+      const enlace = document.getElementById("enlaceCalendario").textContent;
+
+      navigator.clipboard.writeText(enlace).then(() => {
+        alert("Enlace copiado. Después pégalo en Google Calendar desde una computadora.");
+      }).catch(() => {
+        alert("Copia manualmente el enlace que aparece arriba.");
+      });
+    }
+  </script>
+
+</body>
+</html>
