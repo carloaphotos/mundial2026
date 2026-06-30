@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260630T084818Z",
+  "actualizado_en": "20260630T220449Z",
   "partidos": [
     {
       "numero": 73,
@@ -123,7 +123,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 91,
       "revision": 0,
-      "espn_event_id": "760490"
+      "espn_event_id": "760490",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 1,
+        "marcador_visitante": 2,
+        "ganador": "Noruega"
+      }
     },
     {
       "numero": 79,
@@ -324,13 +330,13 @@
       "hora": "14:00",
       "equipo_local": "Brasil",
       "bandera_local": "🇧🇷",
-      "equipo_visitante": "Ganador del partido 78",
-      "bandera_visitante": "🏳️",
+      "equipo_visitante": "Noruega",
+      "bandera_visitante": "🇳🇴",
       "estadio": "Estadio MetLife",
       "ciudad": "East Rutherford",
       "pais": "Estados Unidos",
       "siguiente_partido": 99,
-      "revision": 2,
+      "revision": 4,
       "espn_event_id": "760504"
     },
     {
