@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260701T105702Z",
+  "actualizado_en": "20260701T182754Z",
   "partidos": [
     {
       "numero": 73,
@@ -173,7 +173,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 92,
       "revision": 1,
-      "espn_event_id": "760495"
+      "espn_event_id": "760495",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 2,
+        "marcador_visitante": 1,
+        "ganador": "Inglaterra"
+      }
     },
     {
       "numero": 81,
@@ -358,13 +364,13 @@
       "hora": "18:00",
       "equipo_local": "México",
       "bandera_local": "🇲🇽",
-      "equipo_visitante": "Ganador del partido 80",
-      "bandera_visitante": "🏳️",
+      "equipo_visitante": "Inglaterra",
+      "bandera_visitante": "🏴",
       "estadio": "Estadio Azteca",
       "ciudad": "Ciudad de México",
       "pais": "México",
       "siguiente_partido": 99,
-      "revision": 2,
+      "revision": 4,
       "espn_event_id": "760505"
     },
     {
