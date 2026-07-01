@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260630T220449Z",
+  "actualizado_en": "20260701T105702Z",
   "partidos": [
     {
       "numero": 73,
@@ -107,7 +107,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 89,
       "revision": 0,
-      "espn_event_id": "760492"
+      "espn_event_id": "760492",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 3,
+        "marcador_visitante": 0,
+        "ganador": "Francia"
+      }
     },
     {
       "numero": 78,
@@ -145,7 +151,13 @@
       "pais": "México",
       "siguiente_partido": 92,
       "revision": 0,
-      "espn_event_id": "760491"
+      "espn_event_id": "760491",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 2,
+        "marcador_visitante": 0,
+        "ganador": "México"
+      }
     },
     {
       "numero": 80,
@@ -298,13 +310,13 @@
       "hora": "15:00",
       "equipo_local": "Paraguay",
       "bandera_local": "🇵🇾",
-      "equipo_visitante": "Ganador del partido 77",
-      "bandera_visitante": "🏳️",
+      "equipo_visitante": "Francia",
+      "bandera_visitante": "🇫🇷",
       "estadio": "Estadio Lincoln Financial Field",
       "ciudad": "Filadelfia",
       "pais": "Estados Unidos",
       "siguiente_partido": 97,
-      "revision": 2,
+      "revision": 4,
       "espn_event_id": "760503"
     },
     {
@@ -344,15 +356,15 @@
       "fase": "Octavos de final",
       "fecha": "2026-07-05",
       "hora": "18:00",
-      "equipo_local": "Ganador del partido 79",
-      "bandera_local": "🏳️",
+      "equipo_local": "México",
+      "bandera_local": "🇲🇽",
       "equipo_visitante": "Ganador del partido 80",
       "bandera_visitante": "🏳️",
       "estadio": "Estadio Azteca",
       "ciudad": "Ciudad de México",
       "pais": "México",
       "siguiente_partido": 99,
-      "revision": 0,
+      "revision": 2,
       "espn_event_id": "760505"
     },
     {
