@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260701T225533Z",
+  "actualizado_en": "20260702T101751Z",
   "partidos": [
     {
       "numero": 73,
@@ -195,7 +195,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 94,
       "revision": 0,
-      "espn_event_id": "760494"
+      "espn_event_id": "760494",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 2,
+        "marcador_visitante": 0,
+        "ganador": "Estados Unidos"
+      }
     },
     {
       "numero": 82,
@@ -400,15 +406,15 @@
       "fase": "Octavos de final",
       "fecha": "2026-07-06",
       "hora": "18:00",
-      "equipo_local": "Ganador del partido 81",
-      "bandera_local": "🏳️",
+      "equipo_local": "Estados Unidos",
+      "bandera_local": "🇺🇸",
       "equipo_visitante": "Bélgica",
       "bandera_visitante": "🇧🇪",
       "estadio": "Estadio Lumen Field",
       "ciudad": "Seattle",
       "pais": "Estados Unidos",
       "siguiente_partido": 98,
-      "revision": 2,
+      "revision": 4,
       "espn_event_id": "760507"
     },
     {
