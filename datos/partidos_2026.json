@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260702T101751Z",
+  "actualizado_en": "20260703T083751Z",
   "partidos": [
     {
       "numero": 73,
@@ -239,7 +239,13 @@
       "pais": "Canadá",
       "siguiente_partido": 93,
       "revision": 0,
-      "espn_event_id": "760496"
+      "espn_event_id": "760496",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 2,
+        "marcador_visitante": 1,
+        "ganador": "Portugal"
+      }
     },
     {
       "numero": 84,
@@ -255,7 +261,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 93,
       "revision": 0,
-      "espn_event_id": "760497"
+      "espn_event_id": "760497",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 3,
+        "marcador_visitante": 0,
+        "ganador": "España"
+      }
     },
     {
       "numero": 85,
@@ -271,7 +283,13 @@
       "pais": "Canadá",
       "siguiente_partido": 96,
       "revision": 0,
-      "espn_event_id": "760498"
+      "espn_event_id": "760498",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 2,
+        "marcador_visitante": 0,
+        "ganador": "Suiza"
+      }
     },
     {
       "numero": 86,
@@ -390,15 +408,15 @@
       "fase": "Octavos de final",
       "fecha": "2026-07-06",
       "hora": "13:00",
-      "equipo_local": "Ganador del partido 83",
-      "bandera_local": "🏳️",
-      "equipo_visitante": "Ganador del partido 84",
-      "bandera_visitante": "🏳️",
+      "equipo_local": "Portugal",
+      "bandera_local": "🇵🇹",
+      "equipo_visitante": "España",
+      "bandera_visitante": "🇪🇸",
       "estadio": "Estadio AT&T",
       "ciudad": "Arlington",
       "pais": "Estados Unidos",
       "siguiente_partido": 98,
-      "revision": 0,
+      "revision": 4,
       "espn_event_id": "760506"
     },
     {
@@ -438,15 +456,15 @@
       "fase": "Octavos de final",
       "fecha": "2026-07-07",
       "hora": "14:00",
-      "equipo_local": "Ganador del partido 85",
-      "bandera_local": "🏳️",
+      "equipo_local": "Suiza",
+      "bandera_local": "🇨🇭",
       "equipo_visitante": "Ganador del partido 87",
       "bandera_visitante": "🏳️",
       "estadio": "Estadio BC Place",
       "ciudad": "Vancouver",
       "pais": "Canadá",
       "siguiente_partido": 100,
-      "revision": 0,
+      "revision": 2,
       "espn_event_id": "760508"
     },
     {
