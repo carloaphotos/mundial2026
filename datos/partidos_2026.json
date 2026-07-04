@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260703T083751Z",
+  "actualizado_en": "20260704T072941Z",
   "partidos": [
     {
       "numero": 73,
@@ -305,7 +305,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 95,
       "revision": 0,
-      "espn_event_id": "760500"
+      "espn_event_id": "760500",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 3,
+        "marcador_visitante": 2,
+        "ganador": "Argentina"
+      }
     },
     {
       "numero": 87,
@@ -321,7 +327,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 96,
       "revision": 0,
-      "espn_event_id": "760501"
+      "espn_event_id": "760501",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 1,
+        "marcador_visitante": 0,
+        "ganador": "Colombia"
+      }
     },
     {
       "numero": 88,
@@ -337,7 +349,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 95,
       "revision": 0,
-      "espn_event_id": "760499"
+      "espn_event_id": "760499",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 1,
+        "marcador_visitante": 1,
+        "ganador": "Egipto"
+      }
     },
     {
       "numero": 89,
@@ -440,15 +458,15 @@
       "fase": "Octavos de final",
       "fecha": "2026-07-07",
       "hora": "10:00",
-      "equipo_local": "Ganador del partido 86",
-      "bandera_local": "🏳️",
-      "equipo_visitante": "Ganador del partido 88",
-      "bandera_visitante": "🏳️",
+      "equipo_local": "Argentina",
+      "bandera_local": "🇦🇷",
+      "equipo_visitante": "Egipto",
+      "bandera_visitante": "🇪🇬",
       "estadio": "Estadio Mercedes-Benz",
       "ciudad": "Atlanta",
       "pais": "Estados Unidos",
       "siguiente_partido": 100,
-      "revision": 0,
+      "revision": 4,
       "espn_event_id": "760509"
     },
     {
@@ -458,13 +476,13 @@
       "hora": "14:00",
       "equipo_local": "Suiza",
       "bandera_local": "🇨🇭",
-      "equipo_visitante": "Ganador del partido 87",
-      "bandera_visitante": "🏳️",
+      "equipo_visitante": "Colombia",
+      "bandera_visitante": "🇨🇴",
       "estadio": "Estadio BC Place",
       "ciudad": "Vancouver",
       "pais": "Canadá",
       "siguiente_partido": 100,
-      "revision": 2,
+      "revision": 4,
       "espn_event_id": "760508"
     },
     {
