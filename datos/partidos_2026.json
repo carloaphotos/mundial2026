@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260704T201610Z",
+  "actualizado_en": "20260704T234642Z",
   "partidos": [
     {
       "numero": 73,
@@ -371,7 +371,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 97,
       "revision": 4,
-      "espn_event_id": "760503"
+      "espn_event_id": "760503",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 0,
+        "marcador_visitante": 1,
+        "ganador": "Francia"
+      }
     },
     {
       "numero": 90,
@@ -496,15 +502,15 @@
       "fase": "Cuartos de final",
       "fecha": "2026-07-09",
       "hora": "14:00",
-      "equipo_local": "Ganador del partido 89",
-      "bandera_local": "🏳️",
+      "equipo_local": "Francia",
+      "bandera_local": "🇫🇷",
       "equipo_visitante": "Marruecos",
       "bandera_visitante": "🇲🇦",
       "estadio": "Estadio Gillette",
       "ciudad": "Foxborough",
       "pais": "Estados Unidos",
       "siguiente_partido": 101,
-      "revision": 2,
+      "revision": 4,
       "espn_event_id": "760510"
     },
     {
