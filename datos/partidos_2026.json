@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260706T130116Z",
+  "actualizado_en": "20260706T234211Z",
   "partidos": [
     {
       "numero": 73,
@@ -459,7 +459,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 98,
       "revision": 4,
-      "espn_event_id": "760506"
+      "espn_event_id": "760506",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 0,
+        "marcador_visitante": 1,
+        "ganador": "España"
+      }
     },
     {
       "numero": 94,
@@ -530,15 +536,15 @@
       "fase": "Cuartos de final",
       "fecha": "2026-07-10",
       "hora": "13:00",
-      "equipo_local": "Ganador del partido 93",
-      "bandera_local": "🏳️",
+      "equipo_local": "España",
+      "bandera_local": "🇪🇸",
       "equipo_visitante": "Ganador del partido 94",
       "bandera_visitante": "🏳️",
       "estadio": "Estadio SoFi",
       "ciudad": "Inglewood",
       "pais": "Estados Unidos",
       "siguiente_partido": 101,
-      "revision": 0,
+      "revision": 2,
       "espn_event_id": "760511"
     },
     {
