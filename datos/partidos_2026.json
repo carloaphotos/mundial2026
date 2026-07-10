@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260709T224943Z",
+  "actualizado_en": "20260710T213740Z",
   "partidos": [
     {
       "numero": 73,
@@ -569,7 +569,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 101,
       "revision": 4,
-      "espn_event_id": "760511"
+      "espn_event_id": "760511",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 2,
+        "marcador_visitante": 1,
+        "ganador": "España"
+      }
     },
     {
       "numero": 99,
@@ -610,14 +616,14 @@
       "hora": "13:00",
       "equipo_local": "Francia",
       "bandera_local": "🇫🇷",
-      "equipo_visitante": "Ganador del partido 98",
-      "bandera_visitante": "🏳️",
+      "equipo_visitante": "España",
+      "bandera_visitante": "🇪🇸",
       "estadio": "Estadio AT&T",
       "ciudad": "Arlington",
       "pais": "Estados Unidos",
       "siguiente_partido": 104,
       "perdedor_siguiente_partido": 103,
-      "revision": 2,
+      "revision": 4,
       "espn_event_id": "760514"
     },
     {
