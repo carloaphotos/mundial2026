@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260710T213740Z",
+  "actualizado_en": "20260712T074911Z",
   "partidos": [
     {
       "numero": 73,
@@ -591,7 +591,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 102,
       "revision": 4,
-      "espn_event_id": "760512"
+      "espn_event_id": "760512",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 1,
+        "marcador_visitante": 2,
+        "ganador": "Inglaterra"
+      }
     },
     {
       "numero": 100,
@@ -607,7 +613,13 @@
       "pais": "Estados Unidos",
       "siguiente_partido": 102,
       "revision": 4,
-      "espn_event_id": "760513"
+      "espn_event_id": "760513",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 3,
+        "marcador_visitante": 1,
+        "ganador": "Argentina"
+      }
     },
     {
       "numero": 101,
@@ -631,16 +643,16 @@
       "fase": "Semifinal",
       "fecha": "2026-07-15",
       "hora": "13:00",
-      "equipo_local": "Ganador del partido 99",
-      "bandera_local": "🏳️",
-      "equipo_visitante": "Ganador del partido 100",
-      "bandera_visitante": "🏳️",
+      "equipo_local": "Inglaterra",
+      "bandera_local": "🏴",
+      "equipo_visitante": "Argentina",
+      "bandera_visitante": "🇦🇷",
       "estadio": "Estadio Mercedes-Benz",
       "ciudad": "Atlanta",
       "pais": "Estados Unidos",
       "siguiente_partido": 104,
       "perdedor_siguiente_partido": 103,
-      "revision": 0,
+      "revision": 4,
       "espn_event_id": "760515"
     },
     {
