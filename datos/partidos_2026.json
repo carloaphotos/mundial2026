@@ -3,7 +3,7 @@
   "zona_horaria": "America/Mexico_City",
   "duracion_minutos": 120,
   "creado_en": "20260628T175500Z",
-  "actualizado_en": "20260712T074911Z",
+  "actualizado_en": "20260714T233655Z",
   "partidos": [
     {
       "numero": 73,
@@ -636,7 +636,13 @@
       "siguiente_partido": 104,
       "perdedor_siguiente_partido": 103,
       "revision": 4,
-      "espn_event_id": "760514"
+      "espn_event_id": "760514",
+      "resultado": {
+        "estado": "Finalizado",
+        "marcador_local": 0,
+        "marcador_visitante": 2,
+        "ganador": "España"
+      }
     },
     {
       "numero": 102,
@@ -660,14 +666,14 @@
       "fase": "Partido por el tercer lugar",
       "fecha": "2026-07-18",
       "hora": "15:00",
-      "equipo_local": "Perdedor de la semifinal 101",
-      "bandera_local": "🏳️",
+      "equipo_local": "Francia",
+      "bandera_local": "🇫🇷",
       "equipo_visitante": "Perdedor de la semifinal 102",
       "bandera_visitante": "🏳️",
       "estadio": "Estadio Hard Rock",
       "ciudad": "Miami Gardens",
       "pais": "Estados Unidos",
-      "revision": 0,
+      "revision": 2,
       "espn_event_id": "760516"
     },
     {
@@ -675,14 +681,14 @@
       "fase": "Final",
       "fecha": "2026-07-19",
       "hora": "13:00",
-      "equipo_local": "Ganador de la semifinal 101",
-      "bandera_local": "🏳️",
+      "equipo_local": "España",
+      "bandera_local": "🇪🇸",
       "equipo_visitante": "Ganador de la semifinal 102",
       "bandera_visitante": "🏳️",
       "estadio": "Estadio MetLife",
       "ciudad": "East Rutherford",
       "pais": "Estados Unidos",
-      "revision": 0,
+      "revision": 2,
       "espn_event_id": "760517"
     }
   ]
